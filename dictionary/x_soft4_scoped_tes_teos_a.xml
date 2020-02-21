@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Teos a" max_length="40" name="x_soft4_scoped_tes_teos_a" type="collection">
+        <element label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
