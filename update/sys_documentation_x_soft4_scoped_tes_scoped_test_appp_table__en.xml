@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Scoped Test Appp Table" language="en" table="x_soft4_scoped_tes_scoped_test_appp_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Scoped Test Appp Table</label>
+            <language>en</language>
+            <name>x_soft4_scoped_tes_scoped_test_appp_table</name>
+            <plural>Scoped Test Appp Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-21 06:11:45</sys_created_on>
+            <sys_id>cbff1b52db83cc14f6cf0032ba96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Scoped Test Appp Table</sys_name>
+            <sys_package display_value="Scoped Test Appp" source="x_soft4_scoped_tes">f2ffdb12db83cc14f6cf0032ba961983</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Scoped Test Appp">f2ffdb12db83cc14f6cf0032ba961983</sys_scope>
+            <sys_update_name>sys_documentation_x_soft4_scoped_tes_scoped_test_appp_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-21 06:11:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

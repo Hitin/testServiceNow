@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-21 06:11:45</sys_created_on>
+        <sys_id>c7ff1b52db83cc14f6cf0032ba961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_soft4_scoped_tes_scoped_test_appp_table.x_soft4_scoped_tes.user</sys_name>
+        <sys_package display_value="Scoped Test Appp" source="x_soft4_scoped_tes">f2ffdb12db83cc14f6cf0032ba961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Test Appp">f2ffdb12db83cc14f6cf0032ba961983</sys_scope>
+        <sys_security_acl display_value="x_soft4_scoped_tes_scoped_test_appp_table">83ffd752db83cc14f6cf0032ba9619fa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c7ff1b52db83cc14f6cf0032ba961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 06:11:45</sys_updated_on>
+        <sys_user_role display_value="x_soft4_scoped_tes.user" name="x_soft4_scoped_tes.user">36ff9752db83cc14f6cf0032ba961992</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
